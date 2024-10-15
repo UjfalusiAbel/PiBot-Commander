@@ -1,0 +1,42 @@
+# Build results
+bin/
+obj/
+wwwroot/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.suo
+*.csproj.user
+*.ncb
+
+# Uncomment if you have a .NET Core project
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Local configuration files
+appsettings.Development.json
+
+# Ignore the following if you use a CI/CD pipeline to handle these
+*.dbmdl
+*.dbproj
+*.dbml
+*.sql
+*.sqlite
+
+# Exclude directories for dependency management
+.nuget/
+.vs/
+
+# Exclude files specific to the IDE
+.vscode/
+.idea/
+
+#logs
+Logs/
+*.log
+
+#tmp and test data
+data

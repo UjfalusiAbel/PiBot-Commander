@@ -1,0 +1,12 @@
+#Binaries
+bin/
+build/
+
+#Logs
+Logs/
+*.log
+
+#Editors
+.vs/
+.vscode/
+.idea/

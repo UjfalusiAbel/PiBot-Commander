@@ -1,0 +1,21 @@
+#CMake build and cache files, directories
+CMakeFiles/
+Makefile
+CMakeCache.txt
+cmake_install.cmake
+
+#Binaries
+bin/
+build/
+
+#Logs
+Logs/
+*.log
+
+#Editors
+.vs/
+.vscode/
+.idea/
+
+#Packages
+vcpkg_installed/
